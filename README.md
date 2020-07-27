@@ -1,2 +1,2 @@
 # Jogo-da-Velha
-# Jogo desenvolvido em linguagem C
+# Jogo desenvolvido em linguagem C++
